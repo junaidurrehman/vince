@@ -1,0 +1,1 @@
+<a href="{{ url('backup') }}">Backup Now</a>
